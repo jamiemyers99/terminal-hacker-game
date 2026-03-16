@@ -313,6 +313,6 @@ git push origin feature/my-feature
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jamiemyers99.terminal-hacker-game)
 
-`// MIT License · © 2026 Jamie Myers · Sligo, Ireland`
+`// MIT License · © 2026 Jamie Myers · Ireland`
 
 </div>
