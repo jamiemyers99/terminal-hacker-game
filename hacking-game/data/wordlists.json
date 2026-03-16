@@ -1,0 +1,22 @@
+{
+  "easy": [
+    "apple", "brave", "chess", "delta", "eight", "flame", "ghost", "house",
+    "index", "joker", "knife", "lucky", "magic", "night", "orbit", "power",
+    "queen", "razor", "storm", "tiger", "ultra", "virus", "watch", "xenon",
+    "yacht", "zeros", "amber", "blaze", "cobra", "depth"
+  ],
+  "medium": [
+    "access", "binary", "cipher", "daemon", "encode", "falcon", "gadget",
+    "hidden", "impact", "jargon", "kernel", "launch", "matrix", "nebula",
+    "offset", "packet", "quarry", "reboot", "signal", "system", "toggle",
+    "uplink", "vector", "widget", "syntax", "router", "mirror", "freeze",
+    "bridge", "cypher"
+  ],
+  "hard": [
+    "backdoor", "blackhat", "checksum", "deadlock", "endpoint", "firewall",
+    "ghostnet", "hardcode", "infinity", "junction", "killcode", "lockdown",
+    "mainframe", "netblock", "overflow", "paranoid", "protocol", "redirect",
+    "shutdown", "terminal", "undermine", "voidzone", "watchdog", "xorshift",
+    "zerohour", "zeroday", "rootkits", "darkweb1", "malware1", "payload1"
+  ]
+}
